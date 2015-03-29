@@ -1,8 +1,12 @@
-processing-sketch
+algorithm
 =================
-Algorithmus von Analog zu Digital!
- 
-In dem Projekt ging es darum einen Algorithmus zu verfassen und ihn von verschiedenen Leuten ausführen zu lassen. Später sollte der Algorithmus mithilfe von Processing programmiert werden.
- 
- Meine analogen Algorithmen beschäftigten sich hauptsächlich mit geraden Linien und waren leider relativ unspannend in den Ergebnissen. Für die Umsetzung in Processing habe ich daher etwas anderes gemacht. Ich wollte etwas mit kleiner werdenden Kreisen erzeugen und mir kam relativ schnell die Idee diese Kreise ebenfalls im Kreis verlaufen zu lassen um schneeflocken-ähnliche Objekte zu bekommen.
+project for university
+
+At first we were asked to create a simple analog algorithm, that people from the class should execute. Improving our algorithm and let it be executed by atleast 10 people was the goal forthe next few lessons.
+
+I choose to create a simple algorithm that was composed of different-colored lines.
+
+After finishing the work on the analog algorith our task was to make a digital version of said algorithm with processing. My first algorithm was so basic and simple, that I choose to do another algorithm for the digital version.
+
+This time the algorithm was composed of circles, that would circle around each other in a specific pattern.
  
